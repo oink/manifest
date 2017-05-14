@@ -10,7 +10,7 @@
            sync-j="4" />
 
   <project path="oink" name="oink/oink" />
+  <project path="qqbot" name="oink/qqbot" />
   <project path="Supybot" name="oink/Supybot" />
-  <project path="SmartQQBot" name="oink/SmartQQBot" />
 
 </manifest>
